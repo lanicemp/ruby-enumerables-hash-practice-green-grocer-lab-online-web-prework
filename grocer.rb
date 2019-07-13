@@ -80,6 +80,6 @@ else
   total.round(2)
 
   #total > 100 ? total * 0.9 : total
-  #ternary operator is the ? shot hand for if else statement example above. 
+  #ternary operator is the ? short hand for if else statements example above. 
 end
 end
